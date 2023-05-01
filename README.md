@@ -21,7 +21,7 @@
 :woman_technologist: About Me :
 I'am Python Developer from Belarus
 
-- :soft: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- <h5>Soft Skills:</h5> I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
