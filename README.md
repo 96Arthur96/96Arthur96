@@ -26,6 +26,7 @@ Ability to learn new material quickly, get into the essence of the tasks, unders
   
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arthurbear/)
 
+ :hammer_and_wrench: Languages and Tools :
 
 
 
