@@ -23,7 +23,8 @@ I'am Python Developer from Belarus
 
 - Soft Skills: Responsibility, desire for professional growth, ability to manage time and work in a team.
 Ability to learn new material quickly, get into the essence of the tasks, understand the requirements and be prepared for routine tasks.
-
+  
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/arthurbear/")
 
 
 
