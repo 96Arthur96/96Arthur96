@@ -45,7 +45,7 @@ Ability to learn new material quickly, get into the essence of the tasks, unders
   <br>
   <br>
 :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=96Arthur96&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=96Arthur96)](https://git.io/streak-stats)
 
 
 
