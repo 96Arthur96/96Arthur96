@@ -18,7 +18,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
 </div>
-:woman_technologist: About Me :
+:woman_technologist: About Me :<br>
 I'am Python Developer from Belarus
 
 - Soft Skills: Responsibility, desire for professional growth, ability to manage time and work in a team.
