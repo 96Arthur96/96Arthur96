@@ -1,7 +1,4 @@
 <div id="header" align="center" >
-<h5>Hi there 👋</h5>
-</div>
-<div id="header" align="center" >
   <img src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif"/ width="110" height="150">
  
 
@@ -14,7 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=96Arthur96-github-username&style=flat-square&color=blue" alt=""/>
   </div>
   <div id="header" align="center" >
-<h5>Hi there 👋</h5>
+<h3>Hi there 👋</h3>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
