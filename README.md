@@ -47,6 +47,7 @@ Ability to learn new material quickly, get into the essence of the tasks, unders
   
 :fire: My Stats :
 [GitHub Streak] (https://streak-stats.demolab.com/?user=96Arthur96) (https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=96Arthur96&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
