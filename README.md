@@ -10,6 +10,8 @@
   <div align="center">
 <img src="https://komarev.com/ghpvc/?username=96Arthur96-github-username&style=flat-square&color=blue" alt=""/>
   </div>
+  <br>
+  <br>
   <div id="header" align="center" >
 <h3>Hi there 👋</h3>
 </div>
