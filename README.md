@@ -42,5 +42,5 @@ Ability to learn new material quickly, get into the essence of the tasks, unders
 </div>
 
 
-fire: My Stats :
+:fire: My Stats :
 
